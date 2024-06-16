@@ -1,5 +1,4 @@
 api_key.py
 figures/
 requirements_*
-*.ipynb
 __pycache__
